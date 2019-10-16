@@ -3,7 +3,11 @@ asdsad
 asdsad
 asdasd asdsa
 sad
+<<<<<<< HEAD
 someone did
 what?
 how?
 ?
+=======
+Timothyling
+>>>>>>> ce383de4ad5e81f9f90331358359f6bb0f1f684c
